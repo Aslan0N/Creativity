@@ -1,0 +1,35 @@
+const imgData = [
+    {
+        category:'Brand',
+        photo:"http://www.themezaa.com/html/leadgen/demo/simple-portfolio/images/agency-work-01.jpg"
+    },
+    {
+        category:'Websites',
+        photo:"http://www.themezaa.com/html/leadgen/demo/simple-portfolio/images/agency-work-02.jpg"
+    },
+    {
+        category:'Print',
+        photo:"http://www.themezaa.com/html/leadgen/demo/simple-portfolio/images/agency-work-03.jpg"
+    },
+    {
+        category:'Brand',
+        photo:"http://www.themezaa.com/html/leadgen/demo/simple-portfolio/images/agency-work-04.jpg"
+    },
+    {
+        category:'Photo',
+        photo:"http://www.themezaa.com/html/leadgen/demo/simple-portfolio/images/agency-work-05.jpg"
+    },
+    {
+        category:'Print',
+        photo:"http://www.themezaa.com/html/leadgen/demo/simple-portfolio/images/agency-work-06.jpg"
+    },
+    {
+        category:'Photo',
+        photo:"http://www.themezaa.com/html/leadgen/demo/simple-portfolio/images/agency-work-07.jpg"
+    },
+    {
+        category:'Websites',
+        photo:"http://www.themezaa.com/html/leadgen/demo/simple-portfolio/images/agency-work-08.jpg"
+    }
+]
+export {imgData}
