@@ -66,6 +66,7 @@ ul{
         li{
             font-size: 12px;
             font-weight: 600;
+            cursor: pointer;
         }
     }
 }
@@ -101,5 +102,19 @@ footer{
                 color: gray;
             }
         }
+    }
+}
+.dash{
+    position: relative;
+    transition: all .6s;
+    &::after{
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        background-color: black;
+        width: 100%;
+        height: 1.5px;
+        transition: all 500ms;
     }
 }
